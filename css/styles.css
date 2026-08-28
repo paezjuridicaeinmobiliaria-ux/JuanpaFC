@@ -1,3 +1,4 @@
+
 :root {
   --black: #0a0a0a;
   --white: #fafafa;
@@ -107,7 +108,7 @@ h1, h2, h3, .logo {
   background: var(--lime);
   display: inline-block;
 }
-.dots-light span { background: var(--black); }
+.dots-light span { background: var(--white); }
 
 /* Categories */
 .categories {
